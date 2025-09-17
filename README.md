@@ -1,10 +1,5 @@
 ### Day 1
 
-- Remote Desk Setup - Installing Rust
-[RUST](https://github.com/rustdesk/rustdesk/releases/tag/1.4.0)
-
-- Or For windows pick up [x86-64 (64-bit)	EXE   MSI](https://github.com/rustdesk/rustdesk/releases/download/1.4.0/rustdesk-1.4.0-x86_64.msi)
-
 - Big Picture
 ![Pic-1](/Big%20Picture-Arc.pdf)
 ![Pic-2](/Big%20Picture-Arc2.pdf)
@@ -60,3 +55,6 @@
 [Application Dev Life Cycle](https://www.couchbase.com/blog/application-development-life-cycle/)
 
 - Define Agile using SCRUM also discuss scrum vs kanban vs extreme (including their key differences)
+
+### Microsoft Training Event
+[Training Event link](https://www.microsoft.com/en-us/events/category/microsoft-virtual-training-days?filters=delivery-language%3Aenglish%2Ctopic%3Acloud-platform%2Cproduct%3Aazure&scenario=mvtd)
