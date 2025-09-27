@@ -1,8 +1,8 @@
 ### Day 1
 
 - Big Picture
-![Pic-1](/Big%20Picture-Arc.pdf)
-![Pic-2](/Big%20Picture-Arc2.pdf)
+![Pic-1](/Assets/Big%20Picture-Arc.pdf)
+![Pic-2](/Assets/Big%20Picture-Arc2.pdf)
 
 
 - NAS vs SAN
