@@ -183,3 +183,17 @@ Popular RDBMS:
 ---
 
 Databases are the backbone of almost every IT system. Understanding how they evolved and how to use the right one for the right task is key to becoming a successful developer or data specialist.
+
+
+## Day 7
+
+## Day 8
+[](https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-core-data-concepts/)
+
+## Day 9
+[](https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-relational-data/)
+
+## Day 10
+[](https://learn.microsoft.com/en-us/training/modules/explore-provision-deploy-relational-database-offerings-azure/)
+
+[](https://learn.microsoft.com/en-us/training/modules/explore-provision-deploy-non-relational-data-services-azure/1-introduction)
