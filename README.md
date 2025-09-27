@@ -45,7 +45,7 @@
 - Created a virtual Machine
 
 [Create VM](/Assets/vm1.png)
-[](/Assets/vm2.png)
+[VM Continue](/Assets/vm2.png)
 
 ### Day 5
 
