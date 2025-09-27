@@ -190,14 +190,15 @@ Databases are the backbone of almost every IT system. Understanding how they evo
 
 
 ## Day 7
+- Worked on Assignment Submissions
 
 ## Day 8
-[](https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-core-data-concepts/)
+[Introduction to Microsoft Azure Data core data concepts](https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-core-data-concepts/)
 
 ## Day 9
-[](https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-relational-data/)
+[Introduction to Microsoft Azure Data relational data in Azure](https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-relational-data/)
 
 ## Day 10
-[](https://learn.microsoft.com/en-us/training/modules/explore-provision-deploy-relational-database-offerings-azure/)
+[Explore relational database services in Azure](https://learn.microsoft.com/en-us/training/modules/explore-provision-deploy-relational-database-offerings-azure/)
 
-[](https://learn.microsoft.com/en-us/training/modules/explore-provision-deploy-non-relational-data-services-azure/1-introduction)
+[Introduction to Microsoft Azure Data non-relational data in Azure](https://learn.microsoft.com/en-us/training/modules/explore-provision-deploy-non-relational-data-services-azure/1-introduction)
