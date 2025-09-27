@@ -5,6 +5,7 @@
 ![Pic-2](/Assets/Big%20Picture-Arc2.pdf)
 
 
+
 - NAS vs SAN
 [NAS vs SAN](https://www.backblaze.com/blog/whats-the-diff-nas-vs-san/)
 
@@ -42,6 +43,9 @@
 ### Day 4
 
 - Created a virtual Machine
+
+[Create VM](/Assets/vm1.png)
+[](/Assets/vm2.png)
 
 ### Day 5
 
